@@ -1,1 +1,1 @@
-# Digital_Image_Procession
+# Digital Image Procession
